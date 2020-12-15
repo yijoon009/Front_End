@@ -1,0 +1,77 @@
+프론트엔드 류정원 강사님
+ryuzy@naver.com
+
+wifi계정
+korea_g
+korea123g
+
+HTML: 웹페이지를 만들기 위한 언어로 웹브라우저에서 동작하는 언어
+CSS: HTML, XML등의 문서의 스타일을 꾸밀때 사용하는 언어
+
+<클라이언트와 서버>
+
+네트워크: 두대 이상의 컴퓨터를 연결한 상태
+IP(Internet Protocol): 인터넷 주소
+Internet: 네트워크가 여러개 모인 형태
+
+
+내 IP확인방법
+1. 네이버에 내 IP 검색
+2. 시작, 검색창에 cmd, ipconfig/all *IPv4주소: 192로 시작하는건 가상ip
+
+클라이언트: 정보를 제공 받는 컴퓨터
+서버: 정보를 제공 하는 컴퓨터
+
+
+
+<학습사이트>
+tcp스쿨
+http://tcpschool.com/
+
+W3스쿨스
+https://www.w3schools.com/
+
+HTML
+태그(<>)로 구성되어 있는 명령어의 집합. 웹 페이지를 만들때 사용하는 언어
+
+준비
+1. 문자를 입력할 수 있는 텍스트 편집 프로그램
+2. 브라우저
+
+
+HTML 문법
+<태그이름>: 시작 태그
+</태그이름>: 종료 태그
+
+ex)
+<html>
+  <head>
+    <title>문서의 제목</title>  *탭 상단에 글자가 표기
+  </head>
+   *문서제목, 문서를 만들기 위한 준비물(화면에 안보여)
+
+  <body>
+     문서의 내용
+  </body>
+   *실제로 눈에 보이는것
+</html>
+
+*띄어쓰기, 엔터 전부 상관X
+
+
+-----------------------------
+비주얼 스튜디오 다운로드
+https://code.visualstudio.com/
+--> 오픈폴더-->폴더선택(내가 작업할 폴더)
+-->파일-->PREFERENCE-->SETTING-->FONT SIZE
+		    -->COLOR THEME
+좌측 네모박스-->browser-->open in browser
+EUC-KR 윈도우 문자셋
+UTF-8 비쥬얼 스튜디오 코드 문자셋
+
+
+
+
+
+
+
